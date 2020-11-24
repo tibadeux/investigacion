@@ -6,10 +6,10 @@ main:
   - title: "Conferencias"
     url: /talks/    
 
-  - title: "Teaching"
+  - title: "Enseñanza"
     url: /teaching/    
     
-  - title: "Portfolio"
+  - title: "Proyectos"
     url: /portfolio/
         
   - title: "Blog Posts"
