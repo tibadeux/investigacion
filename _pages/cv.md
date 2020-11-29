@@ -13,7 +13,6 @@ Educación
 ======
 * Ingenieria Ambiental en la Universidad de Quintana Roo, 2005
 * Maestría en Planeación en la Universidad de Quintana Roo, 2009
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 
 Experiencia laboral
 ======
