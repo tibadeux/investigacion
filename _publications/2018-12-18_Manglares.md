@@ -9,4 +9,4 @@ paperurl: 'https://cuadernosdebiodiversidad.ua.es/article/view/2018-n55-manglare
 citation: 'RUIZ RAMÍREZ, Jennifer Denisse; LÓPEZ MONTEJO, Gerardo Daniel; CABRERA GUILLERMO, Ramiro J. Manglares, desarrollo turístico y cambio climático en Playa del Carmen, corazón del caribe mexicano. Cuadernos de Biodiversidad, [S.l.], n. 55, p. 28-40, dic. 2018. ISSN 2254-612X.'
 ---
 
-Cita recomendada. <i>Journal 1</i>. 1(1).
+<i>Journal 1</i>.
