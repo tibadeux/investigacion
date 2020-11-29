@@ -9,13 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+Educación
 ======
 * Ingenieria Ambiental en la Universidad de Quintana Roo, 2005
 * Maestría en Planeación en la Universidad de Quintana Roo, 2009
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 
-Work experience
+Experiencia laboral
 ======
 * Summer 2015: Research Assistant
   * Github University
@@ -27,7 +27,7 @@ Work experience
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
   
-Skills
+Habilidades
 ======
 * Skill 1
 * Skill 2
@@ -36,24 +36,24 @@ Skills
   * Sub-skill 2.3
 * Skill 3
 
-Publications
+Publicaciones
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+Conferencias
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching
+Docencia
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Servicio comunitarios y asociaciones sociales
 ======
 * Currently signed in to 43 different slack teams
